@@ -6,6 +6,7 @@ I'm Ermek Akelov, Frontend-developer and the best Google searcher in Siberia!!!
 
 ### React:
 <a href="https://github.com/ermek-akelov/restaurant">Restaurant app built using React</a>
+<a href="https://github.com/ermek-akelov/portfolio-react">Portfolio app using React and Sanity</a>
 ### JavaScript:
 In progress... no really, i do know how to do that!
 ### HTML/CSS:
